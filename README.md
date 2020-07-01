@@ -1,0 +1,2 @@
+# project-tkinter
+書籍『Pythonをおぼえた人がGUIアプリケーション開発をするためのtkinter速習入門』の学習用サンプルコードです。
